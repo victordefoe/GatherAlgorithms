@@ -19,4 +19,12 @@ GNN（图神经网络）
 4. 关注一些基础热门方向 ，重点定为 推荐系统，简单NLP，模型压缩，automl（暂定）
 
 * data mining   
-  trees 树一类系列的分类方法概览  信息熵，决策树，gbdt，xgboost ...   
+  
+    1. trees 树一类系列的分类方法概览  信息熵，决策树，gbdt，xgboost ...
+
+    2. data dimensional reduce 数据降维:
+    >  LDA, PCA， 因子分析，ICA，ISOMAP（流形学习领域的）[t-SNE UMAP]   
+    >  autoencoder word2vec   
+    > 特征选择: 缺失值，低方差滤波，高相关滤波（卡方检验，相关系数等），信息熵（tree）  
+    > 特征选择：反向特征消除，前向特征选择，
+
