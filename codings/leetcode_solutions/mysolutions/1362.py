@@ -15,6 +15,7 @@
 # 解释：对于 num + 1 = 9，
 # 最接近的两个因数是 3 & 3；对于 num + 2 = 10, 最接近的两个因数是 2 & 5，因此返回 3 & 3 。
 
+from typing import List, Tuple, Dict
 
 # overtime solution... 
 class Solution:
